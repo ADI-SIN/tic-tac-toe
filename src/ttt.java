@@ -613,6 +613,7 @@ public class ttt {
 		System.out.println("");
 		System.out.println("THANKS FOR PLAYING  \t\t developer : ADITYA SINGH");
 	}
+    //thanks alot folks...this is it ...go home!!//
 	
 
 }

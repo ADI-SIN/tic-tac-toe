@@ -15,7 +15,7 @@ public class ttt {
 		System.out.println("");
 		System.out.println("");
 		System.out.println("\t\t\t\t!!! THIS IS A TIC-TAC-TOE GAME !!! ");
-		System.out.println("********************************************************************************");
+		System.out.println("*********************************************************************************");  //instructions
 		System.out.println("");
 		System.out.println("\t   |   |   ");
 		System.out.println("\t00 |01 | 02 ");

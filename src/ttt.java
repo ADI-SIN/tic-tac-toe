@@ -8,7 +8,6 @@ public class ttt {
 	{
 		String a[][]= new String[3][3];
 		
-		
 		Scanner scan= new Scanner(System.in);
 		Random rand= new Random();
 		
@@ -30,7 +29,7 @@ public class ttt {
 		System.out.println("\t   |   |   ");
 		System.out.println("");
 		System.out.println("");
-		System.out.println("\tyou have to mark cross (X) by telling the position (row column)");
+		System.out.println("\tYou have to mark cross (X) by telling the position (row column)");
 		System.out.println("");
 		System.out.println("");
 		System.out.println("");
